@@ -6,16 +6,19 @@ Traffic Light Detection
 ### 
 Authors
 
-* Vinish Makkar
-* 
+* Vinish Makkar 
 
 ###
 Installation 
 
 * Install Python3
-* 
 Run 
 
+###
+Install Microsoft Visual Studio 
+Upload the files in the drectory of visual studio
+Run the files making a collaboration
+-output will be shown.
 		
 pip3 install -r requirements.txt
 
